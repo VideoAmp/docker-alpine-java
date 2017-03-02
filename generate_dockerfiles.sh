@@ -12,7 +12,7 @@ JCE_FLAVORS=(standard unlimited)
 
 JAVA_VERSIONS=(7-80-15 8-92-14 8-102-14 8-111-14 8-121-13-e9e7ea248e2c4826b92b3f075a80e441)
 
-GLIBC_VERSION="2.23-r3"
+GLIBC_VERSION="2.25-r0"
 
 gen_dockerfile() {
   JVM_PACKAGE="$1"

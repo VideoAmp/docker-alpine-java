@@ -13,7 +13,7 @@ ENV JAVA_VERSION_MAJOR=8 \
     JAVA_JCE=unlimited \
     JAVA_HOME=/opt/jdk \
     PATH=${PATH}:/opt/jdk/bin \
-    GLIBC_VERSION=2.23-r3 \
+    GLIBC_VERSION=2.25-r0 \
     LANG=C.UTF-8
 
 # do all in one step
