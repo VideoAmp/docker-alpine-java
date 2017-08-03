@@ -1,5 +1,5 @@
 # AlpineLinux with a glibc-2.25 and Oracle Java %JVM_MAJOR%
-FROM alpine:3.5
+FROM alpine:3.6
 
 MAINTAINER Anastas Dancha <anapsix@random.io>
 # thanks to Vladimir Krivosheev <develar@gmail.com> aka @develar for smaller image
