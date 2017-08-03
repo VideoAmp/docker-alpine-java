@@ -1,4 +1,4 @@
-# AlpineLinux with a glibc-2.23 and Oracle Java %JVM_MAJOR%
+# AlpineLinux with a glibc-2.25 and Oracle Java %JVM_MAJOR%
 FROM alpine:3.5
 
 MAINTAINER Anastas Dancha <anapsix@random.io>
